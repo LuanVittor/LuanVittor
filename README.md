@@ -20,6 +20,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
     <a href = "https://wa.me/5511993616681"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-vittor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-   ![Snake animation](https://github.com/LuanVittor/LuanVittor/blob/output/github-contribution-grid-snake.svg)
+<!--    ![Snake animation](https://github.com/LuanVittor/LuanVittor/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
