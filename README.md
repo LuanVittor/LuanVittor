@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
  
  <img align="center" alt="Luan-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
 
-  <img align="center" alt="Luan-Git" height="30" width="40" src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Luan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Luan-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
  
 </div>
