@@ -27,7 +27,7 @@ Além do desenvolvimento web, tenho um forte interesse por Machine Learning, Des
 ## 📫 Contato
 - **E-mail:** [luan_vittor@hotmail.com](mailto:luan_vittor@hotmail.com)
 - **LinkedIn:** [Luan Vitor](https://www.linkedin.com/in/luan-vittor/)
-- **WhatsApp:** +55 11 99606-0994
+- **Telefone:** +55 11 99606-0994
 
 ## 📌 Extras
 > Fique à vontade para se conectar e entrar em contato!
