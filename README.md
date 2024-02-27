@@ -32,8 +32,7 @@ Além do desenvolvimento web, tenho um forte interesse por Machine Learning, Des
 ## 📌 Extras
 > Fique à vontade para se conectar e entrar em contato!
 
-"A persistência é o caminho do êxito."
+> "A persistência é o caminho do êxito."
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVittor&show_icons=true&theme=dracula)
 
 
