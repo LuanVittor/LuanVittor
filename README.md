@@ -1,20 +1,28 @@
 # Olá, eu sou Luan Vitor Coelho de Araujo 👋
 
 ## 💼 Sobre Mim
-Atuo na área de desenvolvimento web como full stack desde 2021, com um foco especial em criar soluções eficientes e inovadoras. Tenho experiência trabalhando com Angular, Django e Node.js em microsserviços, e atualmente, contribuo para projetos significativos na área de medicina de precisão no Hospital Albert Einstein.
+Desde 2021, mergulhei de cabeça no mundo do desenvolvimento, onde minha paixão por tecnologia e inovação se traduz em soluções de impacto. Atualmente, fico muito feliz em participar de um projeto inovador no Hospital Israelita Albert Einstein, focado na revolucionária área de medicina de precisão. Aqui, cada linha de código que escrevo é um passo em direção ao futuro da saúde.
 
 🎓 **Formação Acadêmica:** Cursando Ciência da Computação na Anhembi Morumbi.
 
 ## 🛠 Habilidades
 - **Linguagens & Frameworks:** Angular, Node.js, Django, React.js, Python, JavaScript, TypeScript
 - **Ferramentas:** Docker
-- **Certificações:** Customer Service (Canadá), Diploma de Inglês
+- **Idiomas:** Português (Nativo), Inglês (Avançado)
 
 ## 🌟 Projetos Destacados
-Estou particularmente orgulhoso do meu trabalho na área de medicina de precisão no **Hospital Albert Einstein**, onde utilizo tecnologias como Angular, Node.js, Django, Python, JavaScript e TypeScript.
+Tenho a satisfação de contribuir para dois projetos revolucionários na área de medicina de precisão e metagenômica no **Hospital Israelita Albert Einstein**:
+
+### [Varstation](https://varsomics.com/varstation/)
+Varstation é uma plataforma desenvolvida para facilitar a análise e interpretação de variantes genéticas, buscando melhorar o diagnóstico e personalização de tratamentos na medicina genômica.
+
+### [Varsmetagen](https://varsomics.com/varsmetagen/)
+Varsmetagen oferece insights valiosos para o estudo de comunidades microbianas, contribuindo para o entendimento do microbioma humano e seu papel em diversas condições de saúde.
+
+Participar desses projetos me permite aplicar minha paixão por tecnologia em prol de avanços significativos na área da saúde, contribuindo para a ciência e o bem-estar das pessoas.
 
 ## 🚀 Interesses
-Tenho um interesse especial por Machine Learning, Desenvolvimento de Jogos e Segurança de Dados, áreas nas quais estou sempre buscando expandir meu conhecimento.
+Além do desenvolvimento web, tenho um forte interesse por Machine Learning, Desenvolvimento de Jogos e Segurança de Dados. Embora não façam parte do meu dia a dia profissional, procuro constantemente aprender mais sobre essas áreas, enriquecendo meu conhecimento e habilidades.
 
 ## 📫 Contato
 - **E-mail:** [luan_vittor@hotmail.com](mailto:luan_vittor@hotmail.com)
@@ -22,9 +30,10 @@ Tenho um interesse especial por Machine Learning, Desenvolvimento de Jogos e Seg
 - **WhatsApp:** +55 11 99606-0994
 
 ## 📌 Extras
-"O segredo para seguir em frente é começar."
+> Fique à vontade para se conectar e entrar em contato!
+
+"A persistência é o caminho do êxito."
 
 ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVittor&show_icons=true&theme=dracula)
 
-> Este README está sempre em evolução, assim como eu. Fique à vontade para se conectar e entrar em contato!
 
