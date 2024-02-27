@@ -1,4 +1,4 @@
-# Olá, eu sou Luan Vitor Coelho de Araujo 👋
+# Luan Vitor Coelho de Araujo
 
 ## 💼 Sobre Mim
 Desde 2021, mergulhei de cabeça no mundo do desenvolvimento, onde minha paixão por tecnologia e inovação se traduz em soluções de impacto. Atualmente, fico muito feliz em participar de um projeto inovador no Hospital Israelita Albert Einstein, focado na revolucionária área de medicina de precisão. Aqui, cada linha de código que escrevo é um passo em direção ao futuro da saúde.
