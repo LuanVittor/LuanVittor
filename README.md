@@ -3,7 +3,7 @@
 ## 💼 Sobre Mim
 Desde 2020, mergulhei de cabeça no mundo do desenvolvimento, onde minha paixão por tecnologia e inovação se traduz em soluções de impacto. Atualmente, fico muito feliz em participar de um projeto inovador no Hospital Israelita Albert Einstein, focado na revolucionária área de medicina de precisão. Aqui, cada linha de código que escrevo é um passo em direção ao futuro da saúde.
 
-🎓 **Formação Acadêmica:** Cursando Ciência da Computação na Anhembi Morumbi.
+🎓 **Formação Acadêmica:** Ciência da Computação na Anhembi Morumbi.
 
 ## 🛠 Habilidades
 - **Linguagens & Frameworks:** Angular, Node.js, Django, React.js, Python, JavaScript, TypeScript
