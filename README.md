@@ -1,34 +1,33 @@
 # Luan Vitor Coelho de Araujo
 
 ## 💼 Sobre Mim
-Desde 2020, mergulhei de cabeça no mundo do desenvolvimento, onde minha paixão por tecnologia e inovação se traduz em soluções de impacto. Atualmente, fico muito feliz em participar de um projeto inovador no Hospital Israelita Albert Einstein, focado na revolucionária área de medicina de precisão. Aqui, cada linha de código que escrevo é um passo em direção ao futuro da saúde.
+Sou apaixonado por tecnologia e desenvolvimento, sempre buscando criar soluções de impacto. Atualmente, integro a equipe da Medway, onde contribuo para projetos inovadores voltados para a área da saúde. Antes disso, tive a oportunidade de atuar no Hospital Israelita Albert Einstein, onde trabalhei em projetos pioneiros em medicina de precisão e metagenômica. Cada linha de código que escrevo reflete meu compromisso em impulsionar o futuro da saúde.
 
 🎓 **Formação Acadêmica:** Ciência da Computação na Anhembi Morumbi.
 
 ## 🛠 Habilidades
-- **Linguagens & Frameworks:** Angular, Node.js, Django, React.js, Python, JavaScript, TypeScript
+- **Linguagens:** Python, JavaScript, TypeScript
+- **Frameworks:** Angular, Node.js, Django, React.js, Next.js
 - **Ferramentas:** Docker
 - **Idiomas:** Português (Nativo), Inglês (Avançado)
 
 ## 🌟 Projetos Destacados
-Tenho a satisfação de contribuir para dois projetos revolucionários na área de medicina de precisão e metagenômica no **Hospital Israelita Albert Einstein**:
+Durante minha experiência no **Hospital Israelita Albert Einstein**, contribuí para projetos pioneiros como:
 
 ### [Varstation](https://varsomics.com/varstation/)
-Varstation é uma plataforma desenvolvida para facilitar a análise e interpretação de variantes genéticas, buscando melhorar o diagnóstico e personalização de tratamentos na medicina genômica.
+Uma plataforma desenvolvida para análise e interpretação de variantes genéticas, melhorando diagnósticos e personalizando tratamentos na medicina genômica.
 
 ### [Varsmetagen](https://varsomics.com/varsmetagen/)
-Varsmetagen oferece insights valiosos para o estudo de comunidades microbianas, contribuindo para o entendimento do microbioma humano e seu papel em diversas condições de saúde.
+Uma ferramenta que oferece insights para o estudo do microbioma humano, apoiando a compreensão de sua relação com diferentes condições de saúde.
 
-Participar desses projetos me permite aplicar minha paixão por tecnologia em prol de avanços significativos na área da saúde, contribuindo para a ciência e o bem-estar das pessoas.
-
-## 🚀 Interesses
-Além do desenvolvimento web, tenho um forte interesse por Machine Learning, Desenvolvimento de Jogos e Segurança de Dados. Embora não façam parte do meu dia a dia profissional, procuro constantemente aprender mais sobre essas áreas, enriquecendo meu conhecimento e habilidades.
+Atualmente, na **Medway**, continuo minha jornada desenvolvendo soluções voltadas para a área da saúde e expandindo meus conhecimentos.
 
 ## 📫 Contato
 - **E-mail:** [luan_vittor@hotmail.com](mailto:luan_vittor@hotmail.com)
 - **LinkedIn:** [Luan Vitor](https://www.linkedin.com/in/luan-vittor/)
+- **GitHub:** [LuanVittor](https://github.com/LuanVittor)
 - **Telefone:** +55 11 99606-0994
-  
+
 > Fique à vontade para se conectar e entrar em contato!
 
 > "A persistência é o caminho do êxito."
